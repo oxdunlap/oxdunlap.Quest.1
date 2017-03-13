@@ -1,0 +1,33 @@
+﻿  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\ThirdParty\SDL2\lib\libfreetype-6.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\ThirdParty\SDL2\lib\libjpeg-9.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\ThirdParty\SDL2\lib\libpng16-16.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\ThirdParty\SDL2\lib\libtiff-5.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\ThirdParty\SDL2\lib\libwebp-4.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\ThirdParty\SDL2\lib\SDL2.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\ThirdParty\SDL2\lib\SDL2_image.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\ThirdParty\SDL2\lib\SDL2_ttf.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\ThirdParty\SDL2\lib\zlib1.dll
+          9 file(s) copied.
+  RedOctorok.cpp
+d:\random\dunlap.quest.1.zelda.1.assignment.ver2\dunlap.quest.1.zelda.1.assignment\quest.1.zelda.1.assignment\source\redoctorok.cpp(13): warning C4305: '+=': truncation from 'double' to 'float'
+d:\random\dunlap.quest.1.zelda.1.assignment.ver2\dunlap.quest.1.zelda.1.assignment\quest.1.zelda.1.assignment\source\redoctorok.cpp(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Quest.1.Zelda.1.Assignment.vcxproj -> D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Game\Quest.1.Zelda.1.Assignment.exe
+  Quest.1.Zelda.1.Assignment.vcxproj -> D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Game\Quest.1.Zelda.1.Assignment.pdb (Full PDB)
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\libfreetype-6.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\libjpeg-9.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\libpng16-16.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\libtiff-5.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\libwebp-4.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\SDL2.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\SDL2_image.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\SDL2_ttf.dll
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\zlib1.dll
+          9 file(s) moved.
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Assets\Config\level1.xml -> D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Game\Assets\Config\level1.xml
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Assets\Config\level2.xml -> D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Game\Assets\Config\level2.xml
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Assets\Config\objects.xml -> D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Game\Assets\Config\objects.xml
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Assets\Images\leever_b.png -> D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Game\Assets\Images\leever_b.png
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Assets\Images\leever_r.png -> D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Game\Assets\Images\leever_r.png
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Assets\Images\octorok_b.png -> D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Game\Assets\Images\octorok_b.png
+  D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Assets\Images\octorok_r.png -> D:\Random\Dunlap.Quest.1.Zelda.1.Assignment.Ver2\Dunlap.Quest.1.Zelda.1.Assignment\Quest.1.Zelda.1.Assignment\Game\Assets\Images\octorok_r.png
+  7 File(s) copied
